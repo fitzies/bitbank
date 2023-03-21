@@ -1,0 +1,26 @@
+{
+  "lorem": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  },
+  "vir": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  },
+  "next": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  },
+  "type": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  },
+  "script": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  },
+  "react": {
+    "title": "Lorem",
+    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+  }
+}
