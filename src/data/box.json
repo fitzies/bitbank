@@ -1,26 +1,26 @@
 {
   "lorem": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   },
   "vir": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   },
   "next": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   },
   "type": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   },
   "script": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   },
   "react": {
     "title": "Lorem",
-    "text": "Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be."
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quos dicta dignissimos vitae obcaecati quibusdam, placeat ex officiis a velit."
   }
 }

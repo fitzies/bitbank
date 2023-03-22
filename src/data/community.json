@@ -1,0 +1,14 @@
+{
+  "Discord": {
+    "name": "Discord",
+    "text": "Join our discord server to chat with other users."
+  },
+  "YouTube": {
+    "name": "YouTube",
+    "text": "Subscribe to our Youtube channel to get constant updates on the project."
+  },
+  "Twitter": {
+    "name": "Twitter",
+    "text": "Join us on Twitter."
+  }
+}
