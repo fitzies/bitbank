@@ -39,7 +39,7 @@ export default function Page() {
         </p>
         <div className="w-full flex justify-center items-center gap-8">
           {Object.values(community).map((box) => {
-            return <CommunityBox title={box.name} />;
+            return <CommunityBox title={box.name} key={box.name} />;
           })}
         </div>
       </div>
